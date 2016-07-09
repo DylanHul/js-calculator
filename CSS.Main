@@ -1,0 +1,15 @@
+button {
+  width: 24%;
+  height: 80px;
+  padding: auto;
+}
+
+body {
+  background-color: darkblue;
+}
+
+.display {
+  background-colour: #eee;
+  height: 80px;
+  width: 100%;
+}
